@@ -1,0 +1,5 @@
+yarn add firebase
+* services of authentication are the same for the app, but the providers can be different.
+
+* Firestore: collection <- document <- data (ex: collection Users)
+
