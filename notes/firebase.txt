@@ -3,3 +3,5 @@ yarn add firebase
 
 * Firestore: collection <- document <- data (ex: collection Users)
 
+* await getRedirectResult(auth); (gets data when the app comes back from redirect login)
+
